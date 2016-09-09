@@ -1,0 +1,12 @@
+<map id="debug_write_string" name="debug_write_string">
+<area shape="rect" id="node2" href="$appusbsensormain_8c.html#a0c4271458583c66d6662599d7489194f" title="ISR" alt="" coords="242,5,285,32"/>
+<area shape="rect" id="node3" href="$group__teds__management.html#ga2433c7d94c56f678f8621bc3537bfcd3" title="Called by the main event loop. If TEDS is not ready or the connect state changed, then re&#45;read..." alt="" coords="202,56,325,83"/>
+<area shape="rect" id="node5" href="$group__power.html#ga200af95bce5d421e0753b1834294d6bf" title="appusbsensor_poweron\l_stable" alt="" coords="184,107,343,149"/>
+<area shape="rect" id="node6" href="$group__hid.html#ga457321433734cc00a04c878523cdf6fc" title="flip_sample_packet" alt="" coords="197,224,330,251"/>
+<area shape="rect" id="node9" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="721,249,876,276"/>
+<area shape="rect" id="node11" href="$group__adc__initialize.html#ga00b878f951ed02d5a94f1d46196494c3" title="adc_initialize" alt="" coords="215,173,312,200"/>
+<area shape="rect" id="node4" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="427,115,478,141"/>
+<area shape="rect" id="node7" href="$group__hid.html#gab79f27adbab11d4b06cf968adaced398" title="accum_sample_p" alt="" coords="391,224,515,251"/>
+<area shape="rect" id="node8" href="$group__hid.html#ga3cefd01b01308b004e8cee96cde3986a" title="accum_sample" alt="" coords="563,224,673,251"/>
+<area shape="rect" id="node10" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="924,249,967,276"/>
+</map>

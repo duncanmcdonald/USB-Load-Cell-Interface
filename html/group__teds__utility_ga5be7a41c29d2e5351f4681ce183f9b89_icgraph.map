@@ -1,0 +1,4 @@
+<map id="teds_read_rom33" name="teds_read_rom33">
+<area shape="rect" id="node2" href="$group__teds__management.html#ga2433c7d94c56f678f8621bc3537bfcd3" title="Called by the main event loop. If TEDS is not ready or the connect state changed, then re&#45;read..." alt="" coords="176,5,299,32"/>
+<area shape="rect" id="node3" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="347,5,397,32"/>
+</map>

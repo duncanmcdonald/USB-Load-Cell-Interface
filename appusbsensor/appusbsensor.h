@@ -1,0 +1,1 @@
+#define APPUSBSENSOR 1

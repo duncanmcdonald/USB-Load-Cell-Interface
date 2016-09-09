@@ -1,0 +1,7 @@
+<map id="ISR" name="ISR">
+<area shape="rect" id="node2" href="$group__timer.html#gab5d8b61d2fe766cca70a9eead16e3f76" title="compare timer count to programmed value " alt="" coords="249,5,411,32"/>
+<area shape="rect" id="node3" href="$group__adc.html#ga391493837ed94f4031183143e99bf388" title="ADC sample. " alt="" coords="103,81,195,108"/>
+<area shape="rect" id="node6" href="$group__timer.html#ga5d73e479d2a7821caaa53056a52304ce" title="start timer " alt="" coords="96,31,201,57"/>
+<area shape="rect" id="node4" href="$group__adc.html#ga6d43ab04f3b55d93bbc00485d3969cf3" title="ADC &#45;&gt; SPI transfer. " alt="" coords="275,81,385,108"/>
+<area shape="rect" id="node5" href="$group__adc.html#gaaf6b62879373886eb3aaf756134988c0" title="SPI assert. " alt="" coords="459,81,569,108"/>
+</map>

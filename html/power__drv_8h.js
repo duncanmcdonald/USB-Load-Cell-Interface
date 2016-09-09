@@ -1,0 +1,26 @@
+var power__drv_8h =
+[
+    [ "Clear_prescaler", "power__drv_8h.html#a85af4c8ba39a4af816e32cf797d3be4f", null ],
+    [ "Enter_adc_noise_reduction_mode", "power__drv_8h.html#ae47c0537c52e3bcab20bcf32a4335e00", null ],
+    [ "Enter_ext_standby_mode", "power__drv_8h.html#a7e0e7a44ec6e05932a86af9cec5f5095", null ],
+    [ "Enter_idle_mode", "power__drv_8h.html#a25569f52aeea22f209cbb1164d80e540", null ],
+    [ "Enter_power_down_mode", "power__drv_8h.html#a5681a1871fbaac9c85e1b20a8810347e", null ],
+    [ "Enter_power_save_mode", "power__drv_8h.html#a6443d9262f9f25b67bcece70eddaf03a", null ],
+    [ "Enter_standby_mode", "power__drv_8h.html#a519b7e8231e9ef0c0dd344728a2f7976", null ],
+    [ "Set_idle_mode", "power__drv_8h.html#add2c843018919ec25fac5faca91ad5ef", null ],
+    [ "Set_power_down_mode", "power__drv_8h.html#a3f46d32ca328c6928e89aaa183bd88a3", null ],
+    [ "Set_prescaler", "power__drv_8h.html#ab3ee141d6dae7151105c305abb3e4067", null ],
+    [ "Setup_adc_noise_reduction_mode", "power__drv_8h.html#a61a6ad264fb3f18d3a2805528c5d8710", null ],
+    [ "Setup_ext_standby_mode", "power__drv_8h.html#a8ec55159889044d0287ceab873b36ab1", null ],
+    [ "Setup_idle_mode", "power__drv_8h.html#a5386326cdffbe85ed28b530f99cf6ead", null ],
+    [ "Setup_power_down_mode", "power__drv_8h.html#abe1b9c8dfb9fcf3a49b1b1dfbba83ac2", null ],
+    [ "Setup_power_save_mode", "power__drv_8h.html#a7fc82d6f1699b785f168a992c970d552", null ],
+    [ "Setup_standby_mode", "power__drv_8h.html#acc1619f7d7842fcd219d51dd05f6f393", null ],
+    [ "Sleep_instruction", "power__drv_8h.html#ada49cf01295f628bf4fa1d7e913f79c6", null ],
+    [ "set_adc_noise_reduction_mode", "power__drv_8h.html#ab80aa6d0137a49bf60076b44b6d617bc", null ],
+    [ "set_ext_standby_mode", "power__drv_8h.html#a2b05b7b69bf9e47bc9b2d1312293b88c", null ],
+    [ "set_idle_mode", "power__drv_8h.html#a0fa76f6dab47b40938d3883cd04ff400", null ],
+    [ "set_power_down_mode", "power__drv_8h.html#aa08b7f98bf517dfb08ed6333b0f3d95c", null ],
+    [ "set_power_save_mode", "power__drv_8h.html#a1aa3c94f640949380f1ac02d9e2c692e", null ],
+    [ "set_standby_mode", "power__drv_8h.html#a278ac0a2c7f6dc93f321ebe2083d945e", null ]
+];

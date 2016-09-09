@@ -1,0 +1,4 @@
+<map id="usb_stack_hid_user_get_report" name="usb_stack_hid_user_get_report">
+<area shape="rect" id="node2" href="$group__hid__request.html#ga227dced4ac81bf1dff961d423726db2b" title="These are the HID report ID&#39;s with the TEDS memory data. " alt="" coords="194,5,347,47"/>
+<area shape="rect" id="node3" href="$group__hid__request.html#ga7ca0311fa576160231c1bd68176ca546" title="TEDS output report. " alt="" coords="192,71,349,112"/>
+</map>

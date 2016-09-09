@@ -1,0 +1,8 @@
+<map id="adc_spitransfer" name="adc_spitransfer">
+<area shape="rect" id="node2" href="$group__adc.html#ga391493837ed94f4031183143e99bf388" title="ADC sample. " alt="" coords="195,5,287,32"/>
+<area shape="rect" id="node4" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="164,56,319,83"/>
+<area shape="rect" id="node6" href="$group__adc__initialize.html#ga00b878f951ed02d5a94f1d46196494c3" title="adc_initialize" alt="" coords="193,107,290,133"/>
+<area shape="rect" id="node3" href="$group__timer.html#gab16889ae984b9b798989a0d239283cac" title="timer interrupt handling " alt="" coords="371,5,413,32"/>
+<area shape="rect" id="node5" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="371,56,413,83"/>
+<area shape="rect" id="node7" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="367,107,417,133"/>
+</map>

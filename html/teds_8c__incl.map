@@ -1,0 +1,6 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/teds/teds.c" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/teds/teds.c">
+<area shape="rect" id="node2" href="$compiler_8h.html" title="Atmel file. Redefines dedicated IAR AVR keywords to ensure processing by GCC. " alt="" coords="5,109,136,136"/>
+<area shape="rect" id="node5" href="$long__delay_8h.html" title="Create a longer delays than _delay_us (AVR libc) will allow. " alt="" coords="299,109,394,136"/>
+<area shape="rect" id="node6" href="$serial__debug_8h.html" title="Serial port functions for debug messages. " alt="" coords="419,109,525,136"/>
+<area shape="rect" id="node7" href="$teds_8h.html" title="Read/write functions for the TEDS memory. See &quot;TEDS utility library&quot; module. " alt="" coords="549,109,608,136"/>
+</map>

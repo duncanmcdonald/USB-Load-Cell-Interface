@@ -1,0 +1,6 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/usbstack/usb_stack_std.h" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/usbstack/usb_stack_std.h">
+<area shape="rect" id="node2" href="$appusbsensormain_8c.html" title="Main for SGA&#45;USB firmware. " alt="" coords="5,124,236,195"/>
+<area shape="rect" id="node3" href="$hid__handler_8c.html" title="Handles USB class specific HID requests. " alt="" coords="261,124,463,195"/>
+<area shape="rect" id="node4" href="$usb__stack_8c.html" title="Low level stuff for USB stack service. " alt="" coords="487,124,690,195"/>
+<area shape="rect" id="node5" href="$usb__stack__std_8c.html" title="Chap 9 USB commands. " alt="" coords="714,124,917,195"/>
+</map>

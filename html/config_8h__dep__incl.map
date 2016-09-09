@@ -1,0 +1,12 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/appusbsensor/conf/config.h" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/appusbsensor/conf/config.h">
+<area shape="rect" id="node2" href="$stdafx_8h.html" title="Atmel file. Debug turned on/off here. " alt="" coords="473,131,704,202"/>
+<area shape="rect" id="node9" href="$stk__525_8h.html" title="Atmel file. Low level macros and definition for stk525 board. " alt="" coords="728,124,911,209"/>
+<area shape="rect" id="node10" href="$power__drv_8c.html" title="Atmel file. Power management driver routines. " alt="" coords="935,124,1117,209"/>
+<area shape="rect" id="node11" href="$usb__drv_8c.html" title="Atmel file. USB driver routines. " alt="" coords="1142,131,1369,202"/>
+<area shape="rect" id="node3" href="$appusbsensormain_8c.html" title="Main for SGA&#45;USB firmware. " alt="" coords="5,257,236,328"/>
+<area shape="rect" id="node4" href="$hid__handler_8c.html" title="Handles USB class specific HID requests. " alt="" coords="261,257,463,328"/>
+<area shape="rect" id="node5" href="$usb__drv__wrap_8c.html" title="Wrapper around the usb_drv.c file. " alt="" coords="1147,257,1350,328"/>
+<area shape="rect" id="node6" href="$usb__stack_8c.html" title="Low level stuff for USB stack service. " alt="" coords="487,257,690,328"/>
+<area shape="rect" id="node7" href="$usb__stack__std_8c.html" title="Chap 9 USB commands. " alt="" coords="714,257,917,328"/>
+<area shape="rect" id="node8" href="$serial__debug_8c.html" title="Serial port functions for debug messages. " alt="" coords="941,257,1116,328"/>
+</map>

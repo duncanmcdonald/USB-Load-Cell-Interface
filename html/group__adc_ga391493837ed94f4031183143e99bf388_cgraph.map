@@ -1,0 +1,4 @@
+<map id="adc_sample" name="adc_sample">
+<area shape="rect" id="node2" href="$group__adc.html#ga6d43ab04f3b55d93bbc00485d3969cf3" title="ADC &#45;&gt; SPI transfer. " alt="" coords="145,5,256,32"/>
+<area shape="rect" id="node3" href="$group__adc.html#gaaf6b62879373886eb3aaf756134988c0" title="SPI assert. " alt="" coords="304,5,415,32"/>
+</map>

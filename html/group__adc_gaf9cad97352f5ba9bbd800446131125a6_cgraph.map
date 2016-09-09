@@ -1,0 +1,13 @@
+<map id="ISR" name="ISR">
+<area shape="rect" id="node2" href="$group__adc.html#ga18adf415552807d4963b6ad09d496ea8" title="SPI de&#45;assert. " alt="" coords="111,59,235,86"/>
+<area shape="rect" id="node3" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="96,110,251,136"/>
+<area shape="rect" id="node4" href="$serial__debug_8c.html#abea31d0480994d1bd08086a483445501" title="debug_write_string" alt="" coords="811,84,941,111"/>
+<area shape="rect" id="node6" href="$serial__debug_8c.html#a60194fedd7f528f4faefc18529d9cba5" title="debug_write_hex" alt="" coords="637,8,755,35"/>
+<area shape="rect" id="node7" href="$serial__debug_8c.html#a9dd8cdb0b36d2a3cbf17bfd124174ff2" title="debug_write_nl" alt="" coords="822,172,930,199"/>
+<area shape="rect" id="node8" href="$group__adc.html#ga6d43ab04f3b55d93bbc00485d3969cf3" title="ADC &#45;&gt; SPI transfer. " alt="" coords="299,160,409,187"/>
+<area shape="rect" id="node10" href="$group__hid.html#ga3cefd01b01308b004e8cee96cde3986a" title="accum_sample" alt="" coords="299,59,409,86"/>
+<area shape="rect" id="node5" href="$serial__debug_8c.html#acee6fd3c87dfa3cbc8e42b38e99a7e3f" title="debug_write" alt="" coords="989,84,1080,111"/>
+<area shape="rect" id="node9" href="$group__adc.html#gaaf6b62879373886eb3aaf756134988c0" title="SPI assert. " alt="" coords="464,160,575,187"/>
+<area shape="rect" id="node11" href="$group__hid.html#gab79f27adbab11d4b06cf968adaced398" title="accum_sample_p" alt="" coords="457,59,581,86"/>
+<area shape="rect" id="node12" href="$group__hid.html#ga457321433734cc00a04c878523cdf6fc" title="flip_sample_packet" alt="" coords="629,59,763,86"/>
+</map>

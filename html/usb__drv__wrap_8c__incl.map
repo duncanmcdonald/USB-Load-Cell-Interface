@@ -1,0 +1,14 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/usbstack/usb_drv_wrap.c" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/usbstack/usb_drv_wrap.c">
+<area shape="rect" id="node2" href="$stdafx_8h.html" title="Atmel file. Debug turned on/off here. " alt="" coords="755,124,823,151"/>
+<area shape="rect" id="node14" href="$usb__drv_8c.html" title="Atmel file. USB driver routines. " alt="" coords="182,124,333,151"/>
+<area shape="rect" id="node3" href="$config_8h.html" title="Atmel file. May not be needed. " alt="" coords="291,206,357,233"/>
+<area shape="rect" id="node5" href="$compiler_8h.html" title="Atmel file. Redefines dedicated IAR AVR keywords to ensure processing by GCC. " alt="" coords="1315,206,1445,233"/>
+<area shape="rect" id="node6" href="$wdt__drv_8h.html" title="Atmel file. Watchdog low level driver definitions. See &quot;Watchdog and reset sytem drivers module&quot; modu..." alt="" coords="381,206,531,233"/>
+<area shape="rect" id="node7" href="$power__drv_8h.html" title="Atmel file. Power Management low level driver definition. " alt="" coords="555,199,698,240"/>
+<area shape="rect" id="node8" href="$usb__drv_8h.html" title="Atmel file. USB low level driver definitions. " alt="" coords="115,206,266,233"/>
+<area shape="rect" id="node9" href="$pll__drv_8h.html" title="Atmel file. Low level macros and definition for the USB PLL. " alt="" coords="722,206,857,233"/>
+<area shape="rect" id="node12" href="$memaccess_8h.html" title="Memory thing called by stdafx.h. " alt="" coords="1088,206,1192,233"/>
+<area shape="rect" id="node13" href="$globals_8h.html" title="Defines various globals. " alt="" coords="1216,206,1291,233"/>
+<area shape="rect" id="node4" href="$stk__525_8h.html" title="Atmel file. Low level macros and definition for stk525 board. " alt="" coords="251,288,397,329"/>
+<area shape="rect" id="node15" href="$conf__usb_8h.html" title="Atmel file. USB regulator and device mode configuration. " alt="" coords="5,206,91,233"/>
+</map>

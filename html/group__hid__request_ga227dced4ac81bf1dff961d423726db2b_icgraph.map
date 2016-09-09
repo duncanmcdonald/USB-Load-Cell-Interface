@@ -1,0 +1,7 @@
+<map id="get_report_FEATURE_QUERYTEDS_PAGE" name="get_report_FEATURE_QUERYTEDS_PAGE">
+<area shape="rect" id="node2" href="$group__hid__request.html#ga739225b6e3928f97d12401fe664ea3dd" title="Class specific (HID) request Get Report. " alt="" coords="207,5,345,47"/>
+<area shape="rect" id="node3" href="$group__std__request.html#ga0ffc0fa9fbeb7b67d064b83106b88fb9" title="Non&#45;standard (i.e. Class specific) control request processing. " alt="" coords="393,5,560,47"/>
+<area shape="rect" id="node4" href="$group__std__request.html#ga8ba4a2f62a993e3301c6d6bb54e28810" title="Entry point for standard USB requests. " alt="" coords="608,5,768,47"/>
+<area shape="rect" id="node5" href="$group__std__request.html#ga86bea8cf48b972656c17d6e13a3c2df5" title="Called in a loop to service the usb stack. " alt="" coords="816,13,945,39"/>
+<area shape="rect" id="node6" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="993,13,1044,39"/>
+</map>

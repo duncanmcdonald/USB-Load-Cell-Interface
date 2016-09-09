@@ -1,0 +1,10 @@
+<map id="usb_stack_read_control_write" name="usb_stack_read_control_write">
+<area shape="rect" id="node2" href="$group__hid__request.html#gae7ea0f2cae0f1b156551a78beabe9a6f" title="Write 32 byte pages to TEDS memory one page at a time. " alt="" coords="223,5,377,47"/>
+<area shape="rect" id="node8" href="$group__hid__request.html#ga2d42be6b14b561b72e38163dc7306527" title="Reset TEDS. " alt="" coords="226,71,374,98"/>
+<area shape="rect" id="node9" href="$group__hid__request.html#ga967d881d776cf375178daff0a68da59e" title="set_report_REPORT_OUT\l_CMD_DEVICE_RESET" alt="" coords="213,123,387,164"/>
+<area shape="rect" id="node3" href="$group__hid__request.html#ga02478aaf252ce84ec684796ae431a580" title="Class specific (HID) request Set Report. " alt="" coords="435,64,573,105"/>
+<area shape="rect" id="node4" href="$group__std__request.html#ga0ffc0fa9fbeb7b67d064b83106b88fb9" title="Non&#45;standard (i.e. Class specific) control request processing. " alt="" coords="621,64,788,105"/>
+<area shape="rect" id="node5" href="$group__std__request.html#ga8ba4a2f62a993e3301c6d6bb54e28810" title="Entry point for standard USB requests. " alt="" coords="836,64,996,105"/>
+<area shape="rect" id="node6" href="$group__std__request.html#ga86bea8cf48b972656c17d6e13a3c2df5" title="Called in a loop to service the usb stack. " alt="" coords="1044,71,1173,98"/>
+<area shape="rect" id="node7" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="1221,71,1272,98"/>
+</map>

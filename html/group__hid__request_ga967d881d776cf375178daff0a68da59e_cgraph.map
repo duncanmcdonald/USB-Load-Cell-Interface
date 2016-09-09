@@ -1,0 +1,4 @@
+<map id="set_report_REPORT_OUT_CMD_DEVICE_RESET" name="set_report_REPORT_OUT_CMD_DEVICE_RESET">
+<area shape="rect" id="node2" href="$group__std__request.html#ga69cf12f38f3d820953a82f74c8860928" title="Control write transfer. " alt="" coords="227,5,387,47"/>
+<area shape="rect" id="node3" href="$group__std__request.html#ga83fea9c6170df897ef1b17933a594038" title="Acks a control write transfer. " alt="" coords="229,71,385,112"/>
+</map>

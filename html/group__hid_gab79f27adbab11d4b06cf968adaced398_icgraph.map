@@ -1,0 +1,5 @@
+<map id="accum_sample_p" name="accum_sample_p">
+<area shape="rect" id="node2" href="$group__hid.html#ga3cefd01b01308b004e8cee96cde3986a" title="accum_sample" alt="" coords="177,5,288,32"/>
+<area shape="rect" id="node3" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="336,5,491,32"/>
+<area shape="rect" id="node4" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="539,5,581,32"/>
+</map>

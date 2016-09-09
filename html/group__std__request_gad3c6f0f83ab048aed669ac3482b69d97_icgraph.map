@@ -1,0 +1,5 @@
+<map id="usb_stack_std_set_configuration" name="usb_stack_std_set_configuration">
+<area shape="rect" id="node2" href="$group__std__request.html#ga8ba4a2f62a993e3301c6d6bb54e28810" title="Entry point for standard USB requests. " alt="" coords="265,5,425,47"/>
+<area shape="rect" id="node3" href="$group__std__request.html#ga86bea8cf48b972656c17d6e13a3c2df5" title="Called in a loop to service the usb stack. " alt="" coords="473,13,603,39"/>
+<area shape="rect" id="node4" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="651,13,701,39"/>
+</map>

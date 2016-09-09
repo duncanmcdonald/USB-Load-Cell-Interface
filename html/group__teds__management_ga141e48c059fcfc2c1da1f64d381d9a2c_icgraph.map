@@ -1,0 +1,17 @@
+<map id="teds_port_passive_input" name="teds_port_passive_input">
+<area shape="rect" id="node2" href="$group__teds__utility.html#gaed0c252bb875f1f3f5c54d0204811ff7" title="Activate TEDS port as input and enable pull&#45;up. " alt="" coords="348,5,419,32"/>
+<area shape="rect" id="node5" href="$group__teds__utility.html#ga0f2061f949d8d803b6746cbcfdd560f1" title="Initiate a teds reset and detect cycle. Return !0 if detect pulse received. " alt="" coords="498,93,589,120"/>
+<area shape="rect" id="node14" href="$group__teds__management.html#ga1f0e6b05f6d5811c8083664e16c03a26" title="teds_io" alt="" coords="215,144,279,171"/>
+<area shape="rect" id="node3" href="$group__teds__management.html#ga2433c7d94c56f678f8621bc3537bfcd3" title="Called by the main event loop. If TEDS is not ready or the connect state changed, then re&#45;read..." alt="" coords="845,95,967,121"/>
+<area shape="rect" id="node4" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="1817,133,1868,160"/>
+<area shape="rect" id="node6" href="$group__teds__utility.html#ga5be7a41c29d2e5351f4681ce183f9b89" title="Read the TEDS ROM. Read the 8&#45;byte ROM portion of the TEDS memory. " alt="" coords="653,93,775,120"/>
+<area shape="rect" id="node7" href="$group__teds__utility.html#ga6ea4ed867cd5b7c0b17676b8c455a667" title="Read the TEDS memory. Read the non&#45;ROM portion of the TEDS memory. " alt="" coords="647,144,781,171"/>
+<area shape="rect" id="node8" href="$group__teds__utility.html#gaa5fbc909d263cd72d55a90e4a52066e8" title="Write the TEDS memory. Write the non&#45;ROM portion of the TEDS memory. " alt="" coords="647,195,781,221"/>
+<area shape="rect" id="node9" href="$group__hid__request.html#gae7ea0f2cae0f1b156551a78beabe9a6f" title="Write 32 byte pages to TEDS memory one page at a time. " alt="" coords="829,166,983,207"/>
+<area shape="rect" id="node10" href="$group__hid__request.html#ga02478aaf252ce84ec684796ae431a580" title="Class specific (HID) request Set Report. " alt="" coords="1031,166,1169,207"/>
+<area shape="rect" id="node11" href="$group__std__request.html#ga0ffc0fa9fbeb7b67d064b83106b88fb9" title="Non&#45;standard (i.e. Class specific) control request processing. " alt="" coords="1217,161,1384,202"/>
+<area shape="rect" id="node12" href="$group__std__request.html#ga8ba4a2f62a993e3301c6d6bb54e28810" title="Entry point for standard USB requests. " alt="" coords="1432,159,1592,201"/>
+<area shape="rect" id="node13" href="$group__std__request.html#ga86bea8cf48b972656c17d6e13a3c2df5" title="Called in a loop to service the usb stack. " alt="" coords="1640,161,1769,188"/>
+<area shape="rect" id="node15" href="$group__teds__utility.html#ga23118e845ba90893a2199e8c734d69a4" title="Write a byte to the TEDS memory. " alt="" coords="327,144,440,171"/>
+<area shape="rect" id="node16" href="$group__teds__utility.html#gade44d4096cee9968db2e7b005fe34894" title="Read a byte from the TEDS memory. " alt="" coords="488,195,599,221"/>
+</map>

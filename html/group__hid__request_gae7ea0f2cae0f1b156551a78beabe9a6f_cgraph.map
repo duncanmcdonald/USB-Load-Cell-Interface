@@ -1,0 +1,12 @@
+<map id="set_report_FEATURE_QUERYTEDS_PAGE" name="set_report_FEATURE_QUERYTEDS_PAGE">
+<area shape="rect" id="node2" href="$group__std__request.html#ga69cf12f38f3d820953a82f74c8860928" title="Control write transfer. " alt="" coords="207,41,367,82"/>
+<area shape="rect" id="node3" href="$group__teds__management.html#ga9df5f5696a552879d746222758013b34" title="Write TEDS memory The sequence is: " alt="" coords="219,107,354,133"/>
+<area shape="rect" id="node4" href="$group__teds__management.html#ga0f2061f949d8d803b6746cbcfdd560f1" title="Initiate a teds reset and detect cycle. Return !0 if detect pulse received. Teds detect sequence: ..." alt="" coords="735,56,825,83"/>
+<area shape="rect" id="node9" href="$group__teds__management.html#ga23118e845ba90893a2199e8c734d69a4" title="Write a byte to the TEDS memory. " alt="" coords="573,107,687,133"/>
+<area shape="rect" id="node11" href="$group__teds__management.html#gade44d4096cee9968db2e7b005fe34894" title="Read a byte from the TEDS memory. " alt="" coords="415,107,525,133"/>
+<area shape="rect" id="node5" href="$group__teds__management.html#ga7a2589d39fb404ba7ce74230f9df81b9" title="teds_port_deassert" alt="" coords="887,107,1021,133"/>
+<area shape="rect" id="node6" href="$long__delay_8h.html#a92da87ed26631edeca29a7888c922b5a" title="long_delay_us" alt="" coords="901,157,1007,184"/>
+<area shape="rect" id="node7" href="$group__teds__management.html#ga141e48c059fcfc2c1da1f64d381d9a2c" title="teds_port_passive_input" alt="" coords="873,5,1035,32"/>
+<area shape="rect" id="node8" href="$group__teds__management.html#gadd12a3562af693724a7abdc546d92db6" title="teds_port_sample" alt="" coords="891,56,1017,83"/>
+<area shape="rect" id="node10" href="$group__teds__management.html#ga1f0e6b05f6d5811c8083664e16c03a26" title="teds_io" alt="" coords="748,107,812,133"/>
+</map>

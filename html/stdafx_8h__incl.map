@@ -1,0 +1,11 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/appusbsensor/stdafx.h" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/appusbsensor/stdafx.h">
+<area shape="rect" id="node2" href="$config_8h.html" title="Atmel file. May not be needed. " alt="" coords="45,131,112,158"/>
+<area shape="rect" id="node4" href="$compiler_8h.html" title="Atmel file. Redefines dedicated IAR AVR keywords to ensure processing by GCC. " alt="" coords="136,131,267,158"/>
+<area shape="rect" id="node5" href="$wdt__drv_8h.html" title="Atmel file. Watchdog low level driver definitions. See &quot;Watchdog and reset sytem drivers module&quot; modu..." alt="" coords="291,131,440,158"/>
+<area shape="rect" id="node6" href="$power__drv_8h.html" title="Atmel file. Power Management low level driver definition. " alt="" coords="465,124,607,165"/>
+<area shape="rect" id="node7" href="$usb__drv_8h.html" title="Atmel file. USB low level driver definitions. " alt="" coords="631,131,782,158"/>
+<area shape="rect" id="node8" href="$pll__drv_8h.html" title="Atmel file. Low level macros and definition for the USB PLL. " alt="" coords="806,131,941,158"/>
+<area shape="rect" id="node11" href="$memaccess_8h.html" title="Memory thing called by stdafx.h. " alt="" coords="1172,131,1276,158"/>
+<area shape="rect" id="node12" href="$globals_8h.html" title="Defines various globals. " alt="" coords="1300,131,1375,158"/>
+<area shape="rect" id="node3" href="$stk__525_8h.html" title="Atmel file. Low level macros and definition for stk525 board. " alt="" coords="5,213,152,255"/>
+</map>

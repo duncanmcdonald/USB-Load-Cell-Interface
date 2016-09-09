@@ -1,0 +1,15 @@
+<map id="debug_write" name="debug_write">
+<area shape="rect" id="node2" href="$serial__debug_8h.html#abea31d0480994d1bd08086a483445501" title="debug_write_string" alt="" coords="144,173,275,200"/>
+<area shape="rect" id="node13" href="$serial__debug_8h.html#a9dd8cdb0b36d2a3cbf17bfd124174ff2" title="debug_write_nl" alt="" coords="703,325,811,352"/>
+<area shape="rect" id="node14" href="$serial__debug_8h.html#a60194fedd7f528f4faefc18529d9cba5" title="debug_write_hex" alt="" coords="150,376,269,403"/>
+<area shape="rect" id="node3" href="$appusbsensormain_8c.html#a0c4271458583c66d6662599d7489194f" title="ISR" alt="" coords="381,5,423,32"/>
+<area shape="rect" id="node4" href="$group__teds__management.html#ga2433c7d94c56f678f8621bc3537bfcd3" title="Called by the main event loop. If TEDS is not ready or the connect state changed, then re&#45;read..." alt="" coords="341,56,463,83"/>
+<area shape="rect" id="node6" href="$group__power.html#ga200af95bce5d421e0753b1834294d6bf" title="appusbsensor_poweron\l_stable" alt="" coords="323,107,481,149"/>
+<area shape="rect" id="node7" href="$group__hid.html#ga457321433734cc00a04c878523cdf6fc" title="flip_sample_packet" alt="" coords="335,224,469,251"/>
+<area shape="rect" id="node10" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="860,300,1015,327"/>
+<area shape="rect" id="node12" href="$group__adc__initialize.html#ga00b878f951ed02d5a94f1d46196494c3" title="adc_initialize" alt="" coords="353,173,451,200"/>
+<area shape="rect" id="node5" href="$group__main.html#ga840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="566,115,617,141"/>
+<area shape="rect" id="node8" href="$group__hid.html#gab79f27adbab11d4b06cf968adaced398" title="accum_sample_p" alt="" coords="529,224,653,251"/>
+<area shape="rect" id="node9" href="$group__hid.html#ga3cefd01b01308b004e8cee96cde3986a" title="accum_sample" alt="" coords="701,224,812,251"/>
+<area shape="rect" id="node11" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="1063,300,1105,327"/>
+</map>

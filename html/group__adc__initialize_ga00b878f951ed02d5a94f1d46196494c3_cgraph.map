@@ -1,0 +1,6 @@
+<map id="adc_initialize" name="adc_initialize">
+<area shape="rect" id="node2" href="$serial__debug_8c.html#abea31d0480994d1bd08086a483445501" title="debug_write_string" alt="" coords="151,5,281,32"/>
+<area shape="rect" id="node4" href="$group__adc.html#ga6d43ab04f3b55d93bbc00485d3969cf3" title="ADC &#45;&gt; SPI transfer. " alt="" coords="161,56,271,83"/>
+<area shape="rect" id="node3" href="$serial__debug_8c.html#acee6fd3c87dfa3cbc8e42b38e99a7e3f" title="debug_write" alt="" coords="339,5,430,32"/>
+<area shape="rect" id="node5" href="$group__adc.html#gaaf6b62879373886eb3aaf756134988c0" title="SPI assert. " alt="" coords="329,56,440,83"/>
+</map>

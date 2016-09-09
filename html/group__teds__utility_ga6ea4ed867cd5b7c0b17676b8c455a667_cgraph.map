@@ -1,0 +1,10 @@
+<map id="teds_read_memory" name="teds_read_memory">
+<area shape="rect" id="node2" href="$group__teds__management.html#ga0f2061f949d8d803b6746cbcfdd560f1" title="Initiate a teds reset and detect cycle. Return !0 if detect pulse received. Teds detect sequence: ..." alt="" coords="507,56,597,83"/>
+<area shape="rect" id="node7" href="$group__teds__management.html#ga23118e845ba90893a2199e8c734d69a4" title="Write a byte to the TEDS memory. " alt="" coords="345,107,459,133"/>
+<area shape="rect" id="node9" href="$group__teds__management.html#gade44d4096cee9968db2e7b005fe34894" title="Read a byte from the TEDS memory. " alt="" coords="187,107,297,133"/>
+<area shape="rect" id="node3" href="$group__teds__management.html#ga7a2589d39fb404ba7ce74230f9df81b9" title="teds_port_deassert" alt="" coords="659,107,793,133"/>
+<area shape="rect" id="node4" href="$long__delay_8h.html#a92da87ed26631edeca29a7888c922b5a" title="long_delay_us" alt="" coords="673,157,779,184"/>
+<area shape="rect" id="node5" href="$group__teds__management.html#ga141e48c059fcfc2c1da1f64d381d9a2c" title="teds_port_passive_input" alt="" coords="645,5,807,32"/>
+<area shape="rect" id="node6" href="$group__teds__management.html#gadd12a3562af693724a7abdc546d92db6" title="teds_port_sample" alt="" coords="663,56,789,83"/>
+<area shape="rect" id="node8" href="$group__teds__management.html#ga1f0e6b05f6d5811c8083664e16c03a26" title="teds_io" alt="" coords="520,107,584,133"/>
+</map>

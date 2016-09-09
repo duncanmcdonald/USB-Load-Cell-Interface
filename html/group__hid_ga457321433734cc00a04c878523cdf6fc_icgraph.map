@@ -1,0 +1,6 @@
+<map id="flip_sample_packet" name="flip_sample_packet">
+<area shape="rect" id="node2" href="$group__hid.html#gab79f27adbab11d4b06cf968adaced398" title="accum_sample_p" alt="" coords="187,5,311,32"/>
+<area shape="rect" id="node3" href="$group__hid.html#ga3cefd01b01308b004e8cee96cde3986a" title="accum_sample" alt="" coords="359,5,469,32"/>
+<area shape="rect" id="node4" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="517,5,672,32"/>
+<area shape="rect" id="node5" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="720,5,763,32"/>
+</map>

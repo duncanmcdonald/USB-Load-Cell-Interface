@@ -1,0 +1,4 @@
+<map id="debug_write_nl" name="debug_write_nl">
+<area shape="rect" id="node2" href="$group__adc.html#ga46aab0a6ff59719adfd48a7c435deeee" title="ADC &#45;&gt; SPI transfer complete. " alt="" coords="161,5,316,32"/>
+<area shape="rect" id="node3" href="$group__adc.html#gaf9cad97352f5ba9bbd800446131125a6" title="SPI interrupt handling. " alt="" coords="364,5,407,32"/>
+</map>

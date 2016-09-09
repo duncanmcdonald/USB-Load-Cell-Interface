@@ -1,0 +1,10 @@
+<map id="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/atmel/at90usb128/lib_mcu/power/power_drv.h" name="E:/Users/Duncan/Dropbox/Solid&#45;Motion/SGA01&#45;USB/Code/avr/smfirmware/atmel/at90usb128/lib_mcu/power/power_drv.h">
+<area shape="rect" id="node2" href="$stdafx_8h.html" title="Atmel file. Debug turned on/off here. " alt="" coords="587,146,817,217"/>
+<area shape="rect" id="node9" href="$power__drv_8c.html" title="Atmel file. Power management driver routines. " alt="" coords="841,139,1024,224"/>
+<area shape="rect" id="node3" href="$appusbsensormain_8c.html" title="Main for SGA&#45;USB firmware. " alt="" coords="5,272,236,343"/>
+<area shape="rect" id="node4" href="$hid__handler_8c.html" title="Handles USB class specific HID requests. " alt="" coords="261,272,463,343"/>
+<area shape="rect" id="node5" href="$usb__drv__wrap_8c.html" title="Wrapper around the usb_drv.c file. " alt="" coords="487,272,690,343"/>
+<area shape="rect" id="node6" href="$usb__stack_8c.html" title="Low level stuff for USB stack service. " alt="" coords="714,272,917,343"/>
+<area shape="rect" id="node7" href="$usb__stack__std_8c.html" title="Chap 9 USB commands. " alt="" coords="941,272,1143,343"/>
+<area shape="rect" id="node8" href="$serial__debug_8c.html" title="Serial port functions for debug messages. " alt="" coords="1168,272,1343,343"/>
+</map>

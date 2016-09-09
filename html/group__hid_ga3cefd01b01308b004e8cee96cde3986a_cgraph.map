@@ -1,0 +1,6 @@
+<map id="accum_sample" name="accum_sample">
+<area shape="rect" id="node2" href="$group__hid.html#gab79f27adbab11d4b06cf968adaced398" title="accum_sample_p" alt="" coords="164,5,288,32"/>
+<area shape="rect" id="node3" href="$group__hid.html#ga457321433734cc00a04c878523cdf6fc" title="flip_sample_packet" alt="" coords="336,5,469,32"/>
+<area shape="rect" id="node4" href="$serial__debug_8c.html#abea31d0480994d1bd08086a483445501" title="debug_write_string" alt="" coords="517,5,648,32"/>
+<area shape="rect" id="node5" href="$serial__debug_8c.html#acee6fd3c87dfa3cbc8e42b38e99a7e3f" title="debug_write" alt="" coords="696,5,787,32"/>
+</map>
